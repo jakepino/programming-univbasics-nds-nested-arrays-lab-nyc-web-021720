@@ -42,8 +42,8 @@ def sorted_matrix
   "Grapes",
   "Avocadoes",
   "Asparagus"
-  ]
-].sort
+  ].sort
+]
 end
 
 def matrix_lookup(matrix, row, column)
